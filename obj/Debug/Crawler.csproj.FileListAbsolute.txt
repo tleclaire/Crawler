@@ -1,0 +1,11 @@
+D:\Projekte\Crawler\bin\Debug\Crawler.exe.config
+D:\Projekte\Crawler\bin\Debug\Crawler.exe
+D:\Projekte\Crawler\bin\Debug\Crawler.pdb
+D:\Projekte\Crawler\bin\Debug\HtmlAgilityPack.dll
+D:\Projekte\Crawler\bin\Debug\HtmlAgilityPack.pdb
+D:\Projekte\Crawler\bin\Debug\HtmlAgilityPack.xml
+D:\Projekte\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+D:\Projekte\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+D:\Projekte\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+D:\Projekte\Crawler\obj\Debug\Crawler.exe
+D:\Projekte\Crawler\obj\Debug\Crawler.pdb
